@@ -5,7 +5,7 @@ A serverless web application for generating recipes based on the input ingredien
 
 Create an account and generate recipes: https://main.d1op4hsg7f7bzq.amplifyapp.com/
 
-Full tutorial: https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-amplify-bedrock-cognito-gen-ai/
+Full tutorial: [Build a Serverless Web Application using Generative AI](https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-amplify-bedrock-cognito-gen-ai/)
 
 
 ## React + TypeScript + Vite
