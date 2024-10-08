@@ -1,5 +1,5 @@
 
-# AWS Tutorial: Build a Serverless Web Application using Generative AI
+# AWS Hands-On Tutorial: Build a Serverless Web Application using Generative AI
 
 A serverless web application for generating recipes based on the input ingredients using Claude 3 Sonnet.
 
